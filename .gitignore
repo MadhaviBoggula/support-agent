@@ -14,5 +14,4 @@ __pycache__/
 *.pyc
 *.db
 *.sqlite3
-agent-memory/
 !.env.example
